@@ -1,0 +1,297 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+#firstPage {
+    height: 100vh;
+    width: 100vw;
+    /* border: 2px solid black; */
+    /* background-image: url(1st_headphone.png); */
+    /* object-fit; */
+    /* background-repeat: no-repeat; */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+button {
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+button:hover {
+    height: 45px;
+    width: 260px;
+    background-color: rgb(120, 125, 138);
+}
+
+#secondPage {
+    height: 100vh;
+    width: 100vw;
+    /* border: 2px solid black; */
+    /* background-image: url(2ND_PAGE.png); */
+    display: flex;
+    justify-content: space-between;
+
+}
+#secondPage h2{
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.main {
+    /* text-align: center; */
+    padding-top: 30vh;
+    /* border: 2px solid red; */
+    width: 40vw;
+    padding-left: 60px;
+}
+
+img {
+    height: 100vh;
+    width: 60vw;
+    /* border: 2px solid red; */
+    object-fit: contain;
+}
+
+h1 {
+    /* padding-top: 40px; */
+    font-size: 50px;
+}
+
+#blue {
+    color: rgb(79, 126, 197);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    color: rgb(120, 125, 138);
+}
+
+
+
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    font: bold;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    /* border: 2px solid black; */
+
+}
+
+#pop {
+    background: rgb(87, 138, 118);
+    color: white;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    margin-left: 30px;
+    font: bold;
+    margin-top: -15px;
+    border: none;
+}
+
+#theme {
+    margin-left: 400px;
+    height: 30px;
+    width: 30px;
+}
+
+#navImg {
+    height: 50px;
+    width: 225px;
+    margin-top: -12px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+#main {
+    margin-left: 230px;
+    margin-top: 70px;
+}
+
+/* #uu {
+    margin-top: 300px;
+    margin-left: 150px;
+    /* border: 2px solid red; */
+
+/* } */
+section{
+    display: flex;
+    justify-content:space-evenly;
+    /* border: 2px solid blue; */
+    margin-left: 10vw;
+    margin-right: 10vw;
+    font-size: large;
+    /* padding-left: 20px; */
+    /* padding-right: 20px; */
+ }
+.head{
+    /* display: flex; */
+    /* border: 2px solid red; */
+    width: 30vw;
+}
+
+#ahumsuba{
+    margin-top: 300px;
+    padding-left: 80px;
+    /* margin-top: 300px; */
+    /* margin-left: 200px; */
+}
+
+#green {
+    /* margin-left: 590px; */
+    /* margin-top: -600px; */
+}
+#anisuba{
+    display: flex;
+}
+.anisuba_semtokpa{
+    width: 50vw;
+}
+
+/* .head1 {
+    width: 33.3%;
+}
+
+.head2 {
+    width: 33.3%;
+}
+
+.head3 {
+    width: 33.3%;
+} */
+
+img {
+    border-radius: 5%;
+
+}
+
+#multi {
+    color: rgb(243, 139, 229);
+}
+#mari{
+    /* border: 2px solid red; */
+    display: flex;
+}
+.mari_semtokpa{
+    width: 50vw;
+    /* border: 2px solid blue; */
+}
+#mari_ne{
+    margin-top: 250px;
+    padding-left: 80px;
+}
+
+
+#semtokse{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#photone{
+    height: 50vh;
+    padding-left: 20vw;
+}
+
+
+
+
+
+.footer {
+    width: 50vw;
+    height: 270px;
+    border: solid, black;
+
+
+
+}
+
+#amanh1 {
+    color: white;
+    padding: 50px;
+    margin: 20px;
+    font-family: sans-serif;
+}
+
+.feat {
+    width: 25vw;
+    height: 270px;
+    border: solid, black;
+
+
+
+
+}
+
+.mon {
+    height: 50vh;
+    display: flex;
+    background-color: black;
+
+
+
+
+}
+
+#aman {
+    font-family: sans-serif;
+    padding: 80px;
+    color: white
+}
+
+.ph {
+    width: 25vw;
+    border: solid, black;
+    padding: 100px;
+    color: white;
+
+
+
+}
+
+#d1 {
+    color: rgb(134, 213, 145);
+
+}
+
+#d2 {
+    color: rgba(125, 128, 190, 1);
+
+}
+
+#d3 {
+    color: rgba(174, 109, 183);
+}
+
+#anouba{
+    height: 70px;
+    width: 70px;
+}
